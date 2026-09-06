@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: FadeOut
+## Notes: Fades chosen UI elements out of combat, fades in on combat or mouseover
+## Author: ExOAte
+## Version: 1.2
+## SavedVariables: FadeOutDB
+
+FadeOut.lua
+FadeOut_Config.lua
