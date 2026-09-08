@@ -1,3 +1,4 @@
+[Also check out my other addons!](https://github.com/X08/X08_WoW_3.3.5a)
 
 ### [FadeOut](https://github.com/X08/FadeOut_3.3.5a)
 Default UI FadeOut Addon in and outside of combat for WoW 3.3.5a.
