@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## Title: FadeOut
 ## Notes: Fades chosen UI elements out of combat, fades in on combat or mouseover
-## Author: X08//Dream
-## Version: 1.2
+## Author: X08 | Dreamwind (Chromiecraft-EU)
+## Version: 1.2.0
 ## SavedVariables: FadeOutDB
 
 FadeOut.lua
